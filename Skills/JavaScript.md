@@ -1,89 +1,93 @@
 ## JavaScript
 
-- Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
-- Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
-- Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
-- Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
-- Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+Language
+Object :👂heard
+this :🎓know
+arrow function :🎓know
+async function :👂heard
+call :🎓know
+bind :👂heard
+apply :👂heard 
+instanceof :👂heard
+...spread :🎓know
+...rest :🎓know
+typeof :👂heard
+destructuring :👂heard
+generator:🎓know
+iterator:👂heard
+async generator:🎓know
+async iterator:👂heard
+chaining:👂heard
+optional chaining:👂heard
+IIFE:👂heard
+global:👂heard
+globalThis:👂heard
+window:🎓know
+getters and setters:👂heard
+proto:👂heard
+prototype:🎓know
+equality operators:👂heard
+logical operators:🎓know
+bitwise operators:👂heard
+ternary operator:👂heard
+void:👂heard
+yield:👂heard
+await:👂heard
+template literal:👂heard
+strict mode:👂heard
+delete:🎓know
+in:🎓know
+super:👂heard
+Symbol:🎓know
+Reflect:👂heard
+
+Statements
+if:🎓know
+while:🎓know
+do..while:🎓know
+for:🎓know
+for..in:🎓know
+for..of:👂heard
+for await:👂heard
+throw:👂heard
+break:👂heard
+continue:🎓heard
+import:👂heard
+export:👂heard
+label:👂heard
+try..catch:👂heard
+switch:👂heard
+class:🎓know
+new Error:👂heard
+with:🎓know
+
+Functions
+function declaratio:👂heard
+function expression:👂heard
+return:🎓know
+default parameters:👂heard
+functional object:👂heard
+
+Data structures
+Array:👂heard
+mixin:👂heard
+extend:🎓know
+typed arrays:👂heard
+Map:👂heard
+Set:👂heard
+undefined:👂heard
+null:🎓know
+Proxy:👂heard
+weak collections:👂heard
+timers:👂heard
+EventEmitter:👂heard 
+RegExp:👂heard
+Date:🎓know
+BigInt:👂heard
+
+Infrastructure
+V8:👂heard
+Node.js:👂heard
+npm:👂heard
+prettier:👂heard
+MDN:👂heard
