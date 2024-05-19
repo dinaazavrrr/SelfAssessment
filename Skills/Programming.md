@@ -1,108 +1,239 @@
 ## Programming fundamental concepts
 
-value:👂heard
-identifier:👂heard
-variable:🎓know
-constant:👂heard
-scalar:🎓know 
-literal:👂 heard
-expression:🎓know
-heap:👂 heard
-function:🎓know
-procedure:👂 heard
-method:👂 heard
-class:👂 heard
-prototype:👂 heard
-event:👂 heard
-type:👂 heard
-primitive types:👂 heard
-reference types:👂 heard
-flag:👂 heard
-lexical scope:👂 heard
-code block:🎓know
-conditions:🎓know
-loops:👂 heard
-assignment:🎓know
-regular expression:👂 heard
-interface:👂 heard
-contract:👂 heard
-module:🎓know
-call stack:👂 heard
-
-Functions
-signature:👂 heard
-argument:👂 heard
-parameter:👂 heard
-pure function:🎓know
-lambda expression:👂 heard
-side effects:👂 heard
-closure:🎓know
-partial application:👂 heard
-curry:👂 heard
-higher order:👂 heard
-recursion:👂 heard
-callback:👂 heard
-listener:👂 heard
-compose:👂 heard
-pipe:👂 heard
-memoize:🎓know
-wrapper:🎓know
-functor:👂 heard
-monad:👂 heard
-monoid:👂 heard
-generator:🎓know
-coroutine:👂 heard
-
-Data structures
-array:👂 heard
-structure:🎓know
-record:👂 heard
-enum:👂 heard
-instance:👂 heard
-object:🎓know
-class:👂 heard
-collection:👂 heard
-set:🎓know
-hash table:👂 heard
-linked list:👂heard
-doubly list:👂heard
-unrolled list:👂heard
-circular list:👂heard
-queue:🎓know
-stack:👂heard
-deque:👂heard
-tree:👂heard
-graph:🎓know
-iterator:👂heard
-mutable state:👂heard
-immutable state:👂heard
-serialization:👂heard
-string parsing:👂heard
-
-Process & style
-compiler:🎓know
-transpiler:👂heard
-linter:👂heard
-polyfill:👂heard
-debugger:👂heard
-garbage collection:👂heard
-refactoring:👂heard
-code review:👂heard
-antipatterns:👂heard
-paradigm:👂heard
-algorithm:🎓know
-magic numbers:👂heard
-hardcode:👂heard
-complexity:👂heard
-decomposition:👂heard
-spaghetti:👂heard
-silver bullet:👂heard
-not invented here:🎓know
-dead code:👂heard
-unreachable code:👂heard
-duplicate code:🎓know
-exception:🎓know
-return early:👂heard
-unittest:👂heard
-git:👂heard
-github:🎓know
+- Concepts
+  - Model
+  - Modeling
+  - Subject domain
+  - Algorithm:🎓know
+  - Syntax
+  - Semantics
+  - Abstraction
+  - Paradigm:👂heard
+  - Programm
+  - Programming paradigm
+  - Programming language
+  - Contract:👂heard
+  - Module:🎓know
+  - Library
+  - Package
+  - Component
+  - Framework
+  - Platform
+  - Source code
+  - Object code
+  - Machine code
+  - Microcode
+  - Software engineering
+  - Decomposition:👂heard
+  - Control flow
+  - Data flow
+  - Code reuse
+  - Defensive programming
+  - Don't repeat yourself (DRY)
+  - KISS principle
+- Syntax and concepts
+  - Value:👂heard
+  - Identifier:👂heard
+  - Variable:🎓know
+  - Constant:👂heard
+  - Scalar:🎓know
+  - Literal:👂heard
+  - Expression:🎓know
+  - Heap:👂heard
+  - Function:🎓know
+  - Procedure:👂heard
+  - Method:👂heard
+  - Class:👂heard
+  - Prototype:👂heard
+  - Event:👂heard
+  - Type:👂heard
+  - Flag:👂heard
+  - Lexical scope:👂heard
+  - Code block:🎓know
+  - Conditions:🎓know
+  - Loops:👂heard
+  - Assignment:🎓know
+  - Regular expression:👂heard
+  - Interface:👂heard
+  - Namespaces
+  - Call stack:👂heard
+  - Naming conventions
+  - Coding conventions
+  - Camel case
+  - Snake case
+  - Kebab case
+  - Trailing commas
+  - Return early:👂heard
+  - Fail-fast
+- Types
+  - Primitive types:👂heard
+  - Reference types:👂heard
+  - Type systems:👂heard
+  - Strong typing
+  - Weak typing
+  - Duck typing
+  - Static typing
+  - Dynamic typing
+  - Nominal typing
+  - Structural typing
+  - Explicit typing
+  - Type inference
+  - Covariance
+  - Contravariance
+- Functions
+  - Signature:👂heard
+  - Argument:👂heard
+  - Parameter:👂heard
+  - Pure function:🎓know
+  - Lambda expression:👂heard
+  - Side effects:👂heard
+  - Closure:🎓know
+  - Partial application:👂heard
+  - Currying:👂heard
+  - Higher order:👂heard
+  - Recursion:👂heard
+  - Tail call optimisation
+  - Callback:👂heard
+  - Listener:👂heard
+  - Composition:👂heard
+  - Pipe:👂heard
+  - Memoize:🎓know
+  - Wrapper:🎓know
+  - Functor:👂heard
+  - Monad:👂heard
+  - Monoid:👂heard
+  - Generator:🎓know
+  - Coroutine:👂heard
+- Data structures
+  - Array:👂heard
+  - Structure:🎓know
+  - Record:👂heard
+  - Enum:👂heard
+  - Instance:👂heard
+  - Object:🎓know
+  - Collection:👂heard
+  - Set:🎓know
+  - Hash table:👂heard
+  - Linked list:👂heard
+  - Doubly list:👂heard
+  - Unrolled list:👂heard
+  - Circular list:👂heard
+  - Queue:🎓know
+  - Stack:👂heard
+  - Deque:👂heard
+  - Tree:👂heard
+  - Graph:🎓know
+  - Iterator:👂heard
+  - Mutable state:👂heard
+  - Immutable state:👂heard
+  - Serialization:👂heard
+  - String parsing:👂heard
+  - JSON
+  - JSON5
+  - YAML
+- Networking
+  - DNS
+  - CDN
+  - CORS
+  - IPv4
+  - IPv6
+  - NAT
+  - URL
+  - URN
+  - URI
+- Process and tools
+  - Compiler:🎓know
+  - Just-in-time compilation
+  - Ahead-of-time compilation
+  - Transpiler:👂heard
+  - Linter:👂heard
+  - Polyfill:👂heard
+  - Interpreter
+  - Linker
+  - Dynamic linking
+  - Static linking
+  - Runtime
+  - Virtual machine
+  - Register-based VM
+  - Stack-based VM
+  - Containerization
+  - Debugger:👂heard
+  - Tracing
+  - Garbage collection:👂heard
+  - Refactoring:👂heard
+  - Code review:👂heard
+  - Exception:🎓know
+  - Unittesting
+  - git:👂heard
+  - Github:🎓know
+  - Docker
+  - Kubernetes
+  - GCC
+  - LLVM
+- Antipatterns
+  - Magic numbers:👂heard
+  - Hard code
+  - Soft code
+  - Cryptic code
+  - Improbability factor
+  - Accidental complexity
+  - Action at a distance
+  - Spaghetti:👂heard
+  - Silver bullet:👂heard
+  - Not invented here:🎓know
+  - Dead code:👂heard
+  - Unreachable code:👂heard
+  - Duplicate code:🎓know
+  - Premature optimization
+  - Micro-optimization
+  - Nested loops
+  - Long method/function/procedure
+  - Long inheritance
+  - Large class/file
+  - Too many parameters:👂heard
+  - Pass-through parameters
+  - Accumulate and fire
+  - Use switch/case
+  - Temporary field
+  - Handle object as instances and hashes at the same time
+  - Use fields instead of arguments
+  - Data clump
+  - Feature envy
+  - Monkey patch
+  - Yo-yo problem
+- Runtimes and virtual machines
+  - Bytecode
+  - V8
+  - VJM
+  - CLR
+  - Mono
+- Operating systems
+  - Interrupts
+  - Drivers
+  - Kernel
+  - Ring
+  - Virtual memory
+  - File system
+  - Linux
+  - Unix
+  - BSD
+  - MacOS
+  - Windows
+  - Real-time OS
+  - Embedded OS
+- Standards
+  - ASCII
+  - Escape sequence
+  - RFC
+  - IETF
+  - IANA
+  - IEEE
+  - Base64
+  - ECMA
+  - ICANN
+  - ISO
+  - MIME
+  - OWASP
+  - UTF-8
+  - W3C
+  - ODMG
