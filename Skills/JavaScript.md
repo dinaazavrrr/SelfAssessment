@@ -72,7 +72,7 @@ Data structures
 Array:👂heard
 mixin:👂heard
 extend:🎓know
-typed arrays:👂heard
+typed arrays:🎓know
 Map:👂heard
 Set:👂heard
 undefined:👂heard
