@@ -1,101 +1,101 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
+  - Model:👂heard
+  - Modeling:👂heard
+  - Subject domain:🎓know
   - Algorithm:🎓know
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Syntax:🎓know
+  - Semantics:👂heard
+  - Abstraction:👂heard
   - Paradigm:👂heard
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Programm:🎓know
+  - Programming paradigm:👂heard
+  - Programming language:👂heard
   - Contract:👂heard
   - Module:🎓know
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
+  - Library:🎓know
+  - Package:🎓know
+  - Component:🎓know
+  - Framework:👂heard
+  - Platform:🎓know
+  - Source code:👂heard
+  - Object code:🎓know
+  - Machine code:🎓know
+  - Microcode:👂heard
   - Software engineering
   - Decomposition:👂heard
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Control flow:👂heard
+  - Data flow:🎓know
+  - Code reuse:🎓know
+  - Defensive programming:👂heard
+  - Don't repeat yourself (DRY):👂heard
+  - KISS principle:👂heard
 - Syntax and concepts
-  - Value:👂heard
+  - Value:🎓know
   - Identifier:👂heard
   - Variable:🎓know
-  - Constant:👂heard
+  - Constant:🎓know
   - Scalar:🎓know
-  - Literal:👂heard
+  - Literal:🎓know
   - Expression:🎓know
   - Heap:👂heard
   - Function:🎓know
-  - Procedure:👂heard
-  - Method:👂heard
-  - Class:👂heard
-  - Prototype:👂heard
+  - Procedure:🎓know
+  - Method:🎓know
+  - Class:🎓know
+  - Prototype:🎓know
   - Event:👂heard
-  - Type:👂heard
+  - Type:🎓know
   - Flag:👂heard
   - Lexical scope:👂heard
   - Code block:🎓know
   - Conditions:🎓know
-  - Loops:👂heard
+  - Loops:🎓know
   - Assignment:🎓know
   - Regular expression:👂heard
-  - Interface:👂heard
-  - Namespaces
+  - Interface:🎓know
+  - Namespaces:👂heard
   - Call stack:👂heard
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Naming conventions:👂heard
+  - Coding conventions:👂heard
+  - Camel case:👂heard
+  - Snake case:👂heard
+  - Kebab case:👂heard
+  - Trailing commas:🎓know
   - Return early:👂heard
-  - Fail-fast
+  - Fail-fast:🎓know
 - Types
-  - Primitive types:👂heard
-  - Reference types:👂heard
-  - Type systems:👂heard
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - Primitive types:🎓know
+  - Reference types:🎓know
+  - Type systems:🎓know
+  - Strong typing:🎓know
+  - Weak typing:👂heard
+  - Duck typing:👂heard
+  - Static typing:👂heard
+  - Dynamic typing:👂heard
+  - Nominal typing:🎓know
+  - Structural typing:👂heard
+  - Explicit typing:👂heard
+  - Type inference:🎓know
+  - Covariance:🎓know
+  - Contravariance:🎓know
 - Functions
-  - Signature:👂heard
-  - Argument:👂heard
-  - Parameter:👂heard
+  - Signature:🎓know
+  - Argument:🎓know
+  - Parameter:🎓know
   - Pure function:🎓know
   - Lambda expression:👂heard
   - Side effects:👂heard
   - Closure:🎓know
   - Partial application:👂heard
-  - Currying:👂heard
-  - Higher order:👂heard
-  - Recursion:👂heard
-  - Tail call optimisation
-  - Callback:👂heard
-  - Listener:👂heard
-  - Composition:👂heard
+  - Currying:🎓know
+  - Higher order:🎓know
+  - Recursion:🎓know
+  - Tail call optimisation:🎓know
+  - Callback:🎓know
+  - Listener:🎓know
+  - Composition:🎓know
   - Pipe:👂heard
   - Memoize:🎓know
   - Wrapper:🎓know
@@ -105,19 +105,19 @@
   - Generator:🎓know
   - Coroutine:👂heard
 - Data structures
-  - Array:👂heard
+  - Array:🎓know
   - Structure:🎓know
-  - Record:👂heard
+  - Record:🎓know
   - Enum:👂heard
-  - Instance:👂heard
+  - Instance:🎓know
   - Object:🎓know
-  - Collection:👂heard
+  - Collection:🎓know
   - Set:🎓know
   - Hash table:👂heard
   - Linked list:👂heard
   - Doubly list:👂heard
   - Unrolled list:👂heard
-  - Circular list:👂heard
+  - Circular list:🎓know
   - Queue:🎓know
   - Stack:👂heard
   - Deque:👂heard
@@ -128,112 +128,112 @@
   - Immutable state:👂heard
   - Serialization:👂heard
   - String parsing:👂heard
-  - JSON
-  - JSON5
-  - YAML
+  - JSON:👂heard
+  - JSON5:👂heard
+  - YAML:👂heard
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - DNS:👂heard
+  - CDN:👂heard
+  - CORS:👂heard
+  - IPv4:👂heard
+  - IPv6:👂heard
+  - NAT:👂heard
+  - URL:👂heard
+  - URN:👂heard
+  - URI:👂heard
 - Process and tools
   - Compiler:🎓know
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation:🎓know
+  - Ahead-of-time compilation:🎓know
   - Transpiler:👂heard
   - Linter:👂heard
   - Polyfill:👂heard
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger:👂heard
-  - Tracing
+  - Interpreter:👂heard
+  - Linker:🎓know
+  - Dynamic linking:🎓know
+  - Static linking:🎓know
+  - Runtime:👂heard
+  - Virtual machine:🎓know
+  - Register-based VM:👂heard
+  - Stack-based VM:👂heard
+  - Containerization:👂heard
+  - Debugger:🎓know
+  - Tracing:👂heard
   - Garbage collection:👂heard
   - Refactoring:👂heard
-  - Code review:👂heard
+  - Code review:🎓know
   - Exception:🎓know
-  - Unittesting
-  - git:👂heard
-  - Github:🎓know
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Unittesting:👂heard
+  - git:🎓know
+  - Github:🖐️ used
+  - Docker:👂heard
+  - Kubernetes:👂heard
+  - GCC:👂heard
+  - LLVM:👂heard
 - Antipatterns
   - Magic numbers:👂heard
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
+  - Hard code:🎓know
+  - Soft code:🎓know
+  - Cryptic code:🎓know
+  - Improbability factor:👂heard
+  - Accidental complexity:👂heard
+  - Action at a distance:👂heard
   - Spaghetti:👂heard
   - Silver bullet:👂heard
   - Not invented here:🎓know
   - Dead code:👂heard
   - Unreachable code:👂heard
   - Duplicate code:🎓know
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters:👂heard
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
-  - Data clump
-  - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Premature optimization:👂heard
+  - Micro-optimization:👂heard
+  - Nested loops:👂heard
+  - Long method/function/procedure:🎓know
+  - Long inheritance:👂heard
+  - Large class/file:🎓know
+  - Too many parameters:🎓know
+  - Pass-through parameters:👂heard
+  - Accumulate and fire:🎓know
+  - Use switch/case:🎓know
+  - Temporary field:🎓know
+  - Handle object as instances and hashes at the same time:👂heard
+  - Use fields instead of arguments:👂heard
+  - Data clump:👂heard
+  - Feature envy:👂heard
+  - Monkey patch:👂heard
+  - Yo-yo problem:👂heard
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
-  - CLR
-  - Mono
+  - Bytecode:👂heard
+  - V8:👂heard
+  - VJM:👂heard
+  - CLR:👂heard
+  - Mono:👂heard
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - Interrupts:👂heard
+  - Drivers:🎓know
+  - Kernel:👂heard
+  - Ring:🎓know
+  - Virtual memory:🎓know
+  - File system:🎓know
+  - Linux:🎓know
+  - Unix:👂heard
+  - BSD:👂heard
+  - MacOS:🎓know
+  - Windows:🖐️ used
+  - Real-time OS:🎓know
+  - Embedded OS:👂heard
 - Standards
-  - ASCII
-  - Escape sequence
-  - RFC
-  - IETF
-  - IANA
-  - IEEE
-  - Base64
-  - ECMA
-  - ICANN
-  - ISO
-  - MIME
-  - OWASP
-  - UTF-8
-  - W3C
-  - ODMG
+  - ASCII:👂heard
+  - Escape sequence:👂heard
+  - RFC:👂heard
+  - IETF:👂heard
+  - IANA:👂heard
+  - IEEE:👂heard
+  - Base64:👂heard
+  - ECMA:👂heard
+  - ICANN:👂heard
+  - ISO:🎓know
+  - MIME:👂heard
+  - OWASP:👂heard
+  - UTF-8:👂heard
+  - W3C:👂heard
+  - ODMG:👂heard

@@ -1,121 +1,121 @@
 ## JavaScript
 
 - Language
-  - `Object`:👂heard
-  - `Function`:🎓know
-  - `Boolean`:👂heard
-  - `Number`:🎓know
-  - `BigInt`:👂heard
-  - `String`:👂heard
-  - `Symbol`:🎓know
-  - `Infinity`
-  - `NaN`
-  - `undefined`:👂heard
-  - `null`:🎓know
-  - `this`:🎓know
-  - `instanceof`:👂heard
+  - `Object`:🖐️used
+  - `Function`:🖐️used
+  - `Boolean`:🖐️used
+  - `Number`:🖐️used
+  - `BigInt`:🖐️used
+  - `String`:🖐️used
+  - `Symbol`:🖐️used
+  - `Infinity`:🖐️used
+  - `NaN`:🖐️used
+  - `undefined`:🖐️used
+  - `null`:🖐️used
+  - `this`:🖐️used
+  - `instanceof`:🎓know
   - `...spread`:🎓know
   - `...rest`:🎓know
-  - `typeof`:👂heard
-  - Destructuring:👂heard
+  - `typeof`:🖐️used
+  - Destructuring:🎓know
   - Generators:🎓know
-  - Iterators:👂heard
+  - Iterators:🎓know
   - Async generator:🎓know
-  - Async iterator:👂heard
+  - Async iterator:🎓know
   - Chaining:👂heard
   - Optional chaining:👂heard
   - IIFE:👂heard
   - Async IIFE:👂heard
-  - `global`:👂heard
-  - `globalThis`:👂heard
-  - `window`:🎓know
+  - `global`:🖐️used
+  - `globalThis`:🖐️used
+  - `window`:🖐️used
   - Getters and setters
   - `__proto__`:👂heard
   - `prototype`:🎓know
   - Equality operators:👂heard
-  - Logical operators:👂heard
-  - Logical Assignment:👂heard
+  - Logical operators:🎓know
+  - Logical Assignment:🎓know
   - Bitwise operators:👂heard
-  - Ternary operator:👂heard
-  - `void`:👂heard
-  - `yield`:👂heard
-  - `await`:👂heard
-  - Template literal:👂heard
+  - Ternary operator:🎓know
+  - `void`:🖐️used
+  - `yield`:🎓know
+  - `await`:🎓know
+  - Template literal:🖐️used
   - Strict mode:👂heard
   - Hoisting:👂heard
-  - `delete`:🎓know
-  - `in`:🎓know
+  - `delete`:🖐️used
+  - `in`:🖐️used
   - `super`:👂heard
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `eval`:👂heard
+  - `static`:👂heard
+  - `Number.parseInt`:🎓know
+  - `Number.parseFloat`:🎓know
+  - Property descriptors:👂heard
+  - Sealing properties:👂heard
+  - Freezing properties:👂heard
+  - Computed properties:👂heard
+  - Instance class fields:🖐️used
+  - Static class fields:🖐️used
+  - Private class fields:🖐️used
+  - Private class methods:🖐️used
 - Statements
-  - `if`:🎓know
-  - `while`:🎓know
-  - `do..while`:🎓know
-  - `for`:🎓know
-  - `for..in`:🎓know
-  - `for..of`:👂heard
-  - `for await`:👂heard
-  - `throw`:👂heard
-  - `break`:👂heard
-  - `continue`:👂heard
-  - `import`:👂heard
-  - `export`:👂heard
-  - `label`:👂heard
-  - `try..catch`:👂heard
-  - `switch`:👂heard
-  - `class`:🎓know
-  - `extends`:👂heard
-  - `with`:🎓know
-  - `new`:👂heard
+  - `if`:🖐️used
+  - `while`:🖐️used
+  - `do..while`:🖐️used
+  - `for`:🖐️used
+  - `for..in`:🖐️used
+  - `for..of`:🖐️used
+  - `for await`:🖐️used
+  - `throw`:🎓know
+  - `break`:🖐️used
+  - `continue`:🖐️used
+  - `import`🖐️used
+  - `export`:🖐️used
+  - `label`:🎓know
+  - `try..catch`:🎓know
+  - `switch`:🖐️used
+  - `class`:🖐️used
+  - `extends`:🎓know
+  - `with`:🖐️used
+  - `new`:🖐️used
 - Functions
-  - Arrow function
-  - Async function
+  - Arrow function:👂heard
+  - Async function:👂heard
   - Function declaration:👂heard
   - Function expression:👂heard
   - Default parameters:👂heard
-  - Functional object:👂heard
+  - Functional object:🎓know
   - `Function.prototype.call`:🎓know
   - `Function.prototype.bind`:🎓know
   - `Function.prototype.apply`:🎓know
   - `return`:🎓know
 - Data structures
-  - `Array`:👂heard
-  - `Map`:👂heard
-  - `Set`:👂heard
-  - `WeakMap`:🎓know
-  - `WeakSet`:🎓know
-  - Typed arrays:🎓know
+  - `Array`:🖐️used
+  - `Map`:🖐️used
+  - `Set`:🖐️used
+  - `WeakMap`:🖐️used
+  - `WeakSet`:🖐️used
+  - Typed arrays:🖐️used
   - Mixins:🎓know
-  - `Object.assign`
+  - `Object.assign`:🖐️used
 - Standard classes and namespaces
   - `Proxy`:👂heard
   - `RegExp`:👂heard
   - `Date`:🎓know
-  - `Math`
+  - `Math`:🖐️used
   - `Reflect`:👂heard
-  - `Error`:👂heard
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Error`:🖐️used
+  - `Atomics`:👂heard
+  - `JSON`:👂heard
+  - `WeakRef`:👂heard
+  - `FinalizationRegistry`:👂heard
+  - `Intl`:🎓know
+  - `Promise`:🎓know
+  - `console`:🖐️used
+  - Timers:🖐️used
 - Infrastructure
   - V8:👂heard
-  - Node.js:👂heard
+  - Node.js:🎓know
   - npm:👂heard
   - prettier:👂heard
   - MDN:👂heard
