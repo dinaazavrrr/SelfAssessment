@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object`:👂heard
-  - `Function`:🎓know
-  - `Boolean`:👂heard
-  - `Number`:🎓know
-  - `BigInt`:👂heard
-  - `String`:👂heard
-  - `Symbol`:🎓know
-  - `Infinity`
-  - `NaN`
-  - `undefined`:👂heard
-  - `null`:🎓know
-  - `this`:🎓know
-  - `instanceof`:👂heard
-  - `...spread`:🎓know
-  - `...rest`:🎓know
-  - `typeof`:👂heard
-  - Destructuring:👂heard
-  - Generators:🎓know
-  - Iterators:👂heard
-  - Async generator:🎓know
-  - Async iterator:👂heard
-  - Chaining:👂heard
-  - Optional chaining:👂heard
-  - IIFE:👂heard
-  - Async IIFE:👂heard
-  - `global`:👂heard
-  - `globalThis`:👂heard
-  - `window`:🎓know
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`:🎓know 👉 Warning: not matching level and emoji
+  - `...spread`:🎓know 👉 Warning: not matching level and emoji
+  - `...rest`:🎓know 👉 Warning: not matching level and emoji
+  - `typeof`: 🖐️ used
+  - Destructuring:🎓know 👉 Warning: not matching level and emoji
+  - Generators:🎓know 👉 Warning: not matching level and emoji
+  - Iterators:🎓know 👉 Warning: not matching level and emoji
+  - Async generator:🎓know 👉 Warning: not matching level and emoji
+  - Async iterator:🎓know 👉 Warning: not matching level and emoji
+  - Chaining: 👂 heard
+  - Optional chaining: 👂 heard
+  - IIFE: 👂 heard
+  - Async IIFE: 👂 heard
+  - `global`: 🖐️ used
+  - `globalThis`: 🖐️ used
+  - `window`: 🖐️ used
   - Getters and setters
-  - `__proto__`:👂heard
-  - `prototype`:🎓know
-  - Equality operators:👂heard
-  - Logical operators:👂heard
-  - Logical Assignment:👂heard
-  - Bitwise operators:👂heard
-  - Ternary operator:👂heard
-  - `void`:👂heard
-  - `yield`:👂heard
-  - `await`:👂heard
-  - Template literal:👂heard
-  - Strict mode:👂heard
-  - Hoisting:👂heard
-  - `delete`:🎓know
-  - `in`:🎓know
-  - `super`:👂heard
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `__proto__`: 👂 heard
+  - `prototype`:🎓know 👉 Warning: not matching level and emoji
+  - Equality operators: 👂 heard
+  - Logical operators:🎓know 👉 Warning: not matching level and emoji
+  - Logical Assignment:🎓know 👉 Warning: not matching level and emoji
+  - Bitwise operators: 👂 heard
+  - Ternary operator:🎓know 👉 Warning: not matching level and emoji
+  - `void`: 🖐️ used
+  - `yield`:🎓know 👉 Warning: not matching level and emoji
+  - `await`:🎓know 👉 Warning: not matching level and emoji
+  - Template literal: 🖐️ used
+  - Strict mode: 👂 heard
+  - Hoisting: 👂 heard
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super`: 👂 heard
+  - `eval`: 👂 heard
+  - `static`: 👂 heard
+  - `Number.parseInt`:🎓know 👉 Warning: not matching level and emoji
+  - `Number.parseFloat`:🎓know 👉 Warning: not matching level and emoji
+  - Property descriptors: 👂 heard
+  - Sealing properties: 👂 heard
+  - Freezing properties: 👂 heard
+  - Computed properties: 👂 heard
+  - Instance class fields: 🖐️ used
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
-  - `if`:🎓know
-  - `while`:🎓know
-  - `do..while`:🎓know
-  - `for`:🎓know
-  - `for..in`:🎓know
-  - `for..of`:👂heard
-  - `for await`:👂heard
-  - `throw`:👂heard
-  - `break`:👂heard
-  - `continue`:👂heard
-  - `import`:👂heard
-  - `export`:👂heard
-  - `label`:👂heard
-  - `try..catch`:👂heard
-  - `switch`:👂heard
-  - `class`:🎓know
-  - `extends`:👂heard
-  - `with`:🎓know
-  - `new`:👂heard
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 🖐️ used
+  - `throw`:🎓know 👉 Warning: not matching level and emoji
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
+  - `label`:🎓know 👉 Warning: not matching level and emoji
+  - `try..catch`:🎓know 👉 Warning: not matching level and emoji
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`:🎓know 👉 Warning: not matching level and emoji
+  - `with`: 🖐️ used
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration:👂heard
-  - Function expression:👂heard
-  - Default parameters:👂heard
-  - Functional object:👂heard
-  - `Function.prototype.call`:🎓know
-  - `Function.prototype.bind`:🎓know
-  - `Function.prototype.apply`:🎓know
-  - `return`:🎓know
+  - Arrow function: 👂 heard
+  - Async function: 👂 heard
+  - Function declaration: 👂 heard
+  - Function expression: 👂 heard
+  - Default parameters: 👂 heard
+  - Functional object:🎓know 👉 Warning: not matching level and emoji
+  - `Function.prototype.call`:🎓know 👉 Warning: not matching level and emoji
+  - `Function.prototype.bind`:🎓know 👉 Warning: not matching level and emoji
+  - `Function.prototype.apply`:🎓know 👉 Warning: not matching level and emoji
+  - `return`:🎓know 👉 Warning: not matching level and emoji
 - Data structures
-  - `Array`:👂heard
-  - `Map`:👂heard
-  - `Set`:👂heard
-  - `WeakMap`:🎓know
-  - `WeakSet`:🎓know
-  - Typed arrays:🎓know
-  - Mixins:🎓know
-  - `Object.assign`
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
+  - `WeakMap`: 🖐️ used
+  - `WeakSet`: 🖐️ used
+  - Typed arrays: 🖐️ used
+  - Mixins:🎓know 👉 Warning: not matching level and emoji
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
-  - `Proxy`:👂heard
-  - `RegExp`:👂heard
-  - `Date`:🎓know
-  - `Math`
-  - `Reflect`:👂heard
-  - `Error`:👂heard
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Proxy`: 👂 heard
+  - `RegExp`: 👂 heard
+  - `Date`:🎓know 👉 Warning: not matching level and emoji
+  - `Math`: 🖐️ used
+  - `Reflect`: 👂 heard
+  - `Error`: 🖐️ used
+  - `Atomics`: 👂 heard
+  - `JSON`: 👂 heard
+  - `WeakRef`: 👂 heard
+  - `FinalizationRegistry`: 👂 heard
+  - `Intl`:🎓know 👉 Warning: not matching level and emoji
+  - `Promise`:🎓know 👉 Warning: not matching level and emoji
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8:👂heard
-  - Node.js:👂heard
-  - npm:👂heard
-  - prettier:👂heard
-  - MDN:👂heard
-  - TC39:👂heard
+  - V8: 👂 heard
+  - Node.js:🎓know 👉 Warning: not matching level and emoji
+  - npm: 👂 heard
+  - prettier: 👂 heard
+  - MDN: 👂 heard
+  - TC39: 👂 heard

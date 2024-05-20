@@ -1,239 +1,239 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm:🎓know
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm:👂heard
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract:👂heard
-  - Module:🎓know
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
+  - Model: 👂 heard
+  - Modeling: 👂 heard
+  - Subject domain:🎓know 👉 Warning: not matching level and emoji
+  - Algorithm:🎓know 👉 Warning: not matching level and emoji
+  - Syntax:🎓know 👉 Warning: not matching level and emoji
+  - Semantics: 👂 heard
+  - Abstraction: 👂 heard
+  - Paradigm: 👂 heard
+  - Programm:🎓know 👉 Warning: not matching level and emoji
+  - Programming paradigm: 👂 heard
+  - Programming language: 👂 heard
+  - Contract: 👂 heard
+  - Module:🎓know 👉 Warning: not matching level and emoji
+  - Library:🎓know 👉 Warning: not matching level and emoji
+  - Package:🎓know 👉 Warning: not matching level and emoji
+  - Component:🎓know 👉 Warning: not matching level and emoji
+  - Framework: 👂 heard
+  - Platform:🎓know 👉 Warning: not matching level and emoji
+  - Source code: 👂 heard
+  - Object code:🎓know 👉 Warning: not matching level and emoji
+  - Machine code:🎓know 👉 Warning: not matching level and emoji
+  - Microcode: 👂 heard
   - Software engineering
-  - Decomposition:👂heard
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Decomposition: 👂 heard
+  - Control flow: 👂 heard
+  - Data flow:🎓know 👉 Warning: not matching level and emoji
+  - Code reuse:🎓know 👉 Warning: not matching level and emoji
+  - Defensive programming: 👂 heard
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
-  - Value:👂heard
-  - Identifier:👂heard
-  - Variable:🎓know
-  - Constant:👂heard
-  - Scalar:🎓know
-  - Literal:👂heard
-  - Expression:🎓know
-  - Heap:👂heard
-  - Function:🎓know
-  - Procedure:👂heard
-  - Method:👂heard
-  - Class:👂heard
-  - Prototype:👂heard
-  - Event:👂heard
-  - Type:👂heard
-  - Flag:👂heard
-  - Lexical scope:👂heard
-  - Code block:🎓know
-  - Conditions:🎓know
-  - Loops:👂heard
-  - Assignment:🎓know
-  - Regular expression:👂heard
-  - Interface:👂heard
-  - Namespaces
-  - Call stack:👂heard
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early:👂heard
-  - Fail-fast
+  - Value:🎓know 👉 Warning: not matching level and emoji
+  - Identifier: 👂 heard
+  - Variable:🎓know 👉 Warning: not matching level and emoji
+  - Constant:🎓know 👉 Warning: not matching level and emoji
+  - Scalar:🎓know 👉 Warning: not matching level and emoji
+  - Literal:🎓know 👉 Warning: not matching level and emoji
+  - Expression:🎓know 👉 Warning: not matching level and emoji
+  - Heap: 👂 heard
+  - Function:🎓know 👉 Warning: not matching level and emoji
+  - Procedure:🎓know 👉 Warning: not matching level and emoji
+  - Method:🎓know 👉 Warning: not matching level and emoji
+  - Class:🎓know 👉 Warning: not matching level and emoji
+  - Prototype:🎓know 👉 Warning: not matching level and emoji
+  - Event: 👂 heard
+  - Type:🎓know 👉 Warning: not matching level and emoji
+  - Flag: 👂 heard
+  - Lexical scope: 👂 heard
+  - Code block:🎓know 👉 Warning: not matching level and emoji
+  - Conditions:🎓know 👉 Warning: not matching level and emoji
+  - Loops:🎓know 👉 Warning: not matching level and emoji
+  - Assignment:🎓know 👉 Warning: not matching level and emoji
+  - Regular expression: 👂 heard
+  - Interface:🎓know 👉 Warning: not matching level and emoji
+  - Namespaces: 👂 heard
+  - Call stack: 👂 heard
+  - Naming conventions: 👂 heard
+  - Coding conventions: 👂 heard
+  - Camel case: 👂 heard
+  - Snake case: 👂 heard
+  - Kebab case: 👂 heard
+  - Trailing commas:🎓know 👉 Warning: not matching level and emoji
+  - Return early: 👂 heard
+  - Fail-fast:🎓know 👉 Warning: not matching level and emoji
 - Types
-  - Primitive types:👂heard
-  - Reference types:👂heard
-  - Type systems:👂heard
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - Primitive types:🎓know 👉 Warning: not matching level and emoji
+  - Reference types:🎓know 👉 Warning: not matching level and emoji
+  - Type systems:🎓know 👉 Warning: not matching level and emoji
+  - Strong typing:🎓know 👉 Warning: not matching level and emoji
+  - Weak typing: 👂 heard
+  - Duck typing: 👂 heard
+  - Static typing: 👂 heard
+  - Dynamic typing: 👂 heard
+  - Nominal typing:🎓know 👉 Warning: not matching level and emoji
+  - Structural typing: 👂 heard
+  - Explicit typing: 👂 heard
+  - Type inference:🎓know 👉 Warning: not matching level and emoji
+  - Covariance:🎓know 👉 Warning: not matching level and emoji
+  - Contravariance:🎓know 👉 Warning: not matching level and emoji
 - Functions
-  - Signature:👂heard
-  - Argument:👂heard
-  - Parameter:👂heard
-  - Pure function:🎓know
-  - Lambda expression:👂heard
-  - Side effects:👂heard
-  - Closure:🎓know
-  - Partial application:👂heard
-  - Currying:👂heard
-  - Higher order:👂heard
-  - Recursion:👂heard
-  - Tail call optimisation
-  - Callback:👂heard
-  - Listener:👂heard
-  - Composition:👂heard
-  - Pipe:👂heard
-  - Memoize:🎓know
-  - Wrapper:🎓know
-  - Functor:👂heard
-  - Monad:👂heard
-  - Monoid:👂heard
-  - Generator:🎓know
-  - Coroutine:👂heard
+  - Signature:🎓know 👉 Warning: not matching level and emoji
+  - Argument:🎓know 👉 Warning: not matching level and emoji
+  - Parameter:🎓know 👉 Warning: not matching level and emoji
+  - Pure function:🎓know 👉 Warning: not matching level and emoji
+  - Lambda expression: 👂 heard
+  - Side effects: 👂 heard
+  - Closure:🎓know 👉 Warning: not matching level and emoji
+  - Partial application: 👂 heard
+  - Currying:🎓know 👉 Warning: not matching level and emoji
+  - Higher order:🎓know 👉 Warning: not matching level and emoji
+  - Recursion:🎓know 👉 Warning: not matching level and emoji
+  - Tail call optimisation:🎓know 👉 Warning: not matching level and emoji
+  - Callback:🎓know 👉 Warning: not matching level and emoji
+  - Listener:🎓know 👉 Warning: not matching level and emoji
+  - Composition:🎓know 👉 Warning: not matching level and emoji
+  - Pipe: 👂 heard
+  - Memoize:🎓know 👉 Warning: not matching level and emoji
+  - Wrapper:🎓know 👉 Warning: not matching level and emoji
+  - Functor: 👂 heard
+  - Monad: 👂 heard
+  - Monoid: 👂 heard
+  - Generator:🎓know 👉 Warning: not matching level and emoji
+  - Coroutine: 👂 heard
 - Data structures
-  - Array:👂heard
-  - Structure:🎓know
-  - Record:👂heard
-  - Enum:👂heard
-  - Instance:👂heard
-  - Object:🎓know
-  - Collection:👂heard
-  - Set:🎓know
-  - Hash table:👂heard
-  - Linked list:👂heard
-  - Doubly list:👂heard
-  - Unrolled list:👂heard
-  - Circular list:👂heard
-  - Queue:🎓know
-  - Stack:👂heard
-  - Deque:👂heard
-  - Tree:👂heard
-  - Graph:🎓know
-  - Iterator:👂heard
-  - Mutable state:👂heard
-  - Immutable state:👂heard
-  - Serialization:👂heard
-  - String parsing:👂heard
-  - JSON
-  - JSON5
-  - YAML
+  - Array:🎓know 👉 Warning: not matching level and emoji
+  - Structure:🎓know 👉 Warning: not matching level and emoji
+  - Record:🎓know 👉 Warning: not matching level and emoji
+  - Enum: 👂 heard
+  - Instance:🎓know 👉 Warning: not matching level and emoji
+  - Object:🎓know 👉 Warning: not matching level and emoji
+  - Collection:🎓know 👉 Warning: not matching level and emoji
+  - Set:🎓know 👉 Warning: not matching level and emoji
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
+  - Doubly list: 👂 heard
+  - Unrolled list: 👂 heard
+  - Circular list:🎓know 👉 Warning: not matching level and emoji
+  - Queue:🎓know 👉 Warning: not matching level and emoji
+  - Stack: 👂 heard
+  - Deque: 👂 heard
+  - Tree: 👂 heard
+  - Graph:🎓know 👉 Warning: not matching level and emoji
+  - Iterator: 👂 heard
+  - Mutable state: 👂 heard
+  - Immutable state: 👂 heard
+  - Serialization: 👂 heard
+  - String parsing: 👂 heard
+  - JSON: 👂 heard
+  - JSON5: 👂 heard
+  - YAML: 👂 heard
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - DNS: 👂 heard
+  - CDN: 👂 heard
+  - CORS: 👂 heard
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
+  - NAT: 👂 heard
+  - URL: 👂 heard
+  - URN: 👂 heard
+  - URI: 👂 heard
 - Process and tools
-  - Compiler:🎓know
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler:👂heard
-  - Linter:👂heard
-  - Polyfill:👂heard
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger:👂heard
-  - Tracing
-  - Garbage collection:👂heard
-  - Refactoring:👂heard
-  - Code review:👂heard
-  - Exception:🎓know
-  - Unittesting
-  - git:👂heard
-  - Github:🎓know
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Compiler:🎓know 👉 Warning: not matching level and emoji
+  - Just-in-time compilation:🎓know 👉 Warning: not matching level and emoji
+  - Ahead-of-time compilation:🎓know 👉 Warning: not matching level and emoji
+  - Transpiler: 👂 heard
+  - Linter: 👂 heard
+  - Polyfill: 👂 heard
+  - Interpreter: 👂 heard
+  - Linker:🎓know 👉 Warning: not matching level and emoji
+  - Dynamic linking:🎓know 👉 Warning: not matching level and emoji
+  - Static linking:🎓know 👉 Warning: not matching level and emoji
+  - Runtime: 👂 heard
+  - Virtual machine:🎓know 👉 Warning: not matching level and emoji
+  - Register-based VM: 👂 heard
+  - Stack-based VM: 👂 heard
+  - Containerization: 👂 heard
+  - Debugger:🎓know 👉 Warning: not matching level and emoji
+  - Tracing: 👂 heard
+  - Garbage collection: 👂 heard
+  - Refactoring: 👂 heard
+  - Code review:🎓know 👉 Warning: not matching level and emoji
+  - Exception:🎓know 👉 Warning: not matching level and emoji
+  - Unittesting: 👂 heard
+  - git:🎓know 👉 Warning: not matching level and emoji
+  - Github: 🖐️ used
+  - Docker: 👂 heard
+  - Kubernetes: 👂 heard
+  - GCC: 👂 heard
+  - LLVM: 👂 heard
 - Antipatterns
-  - Magic numbers:👂heard
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
-  - Spaghetti:👂heard
-  - Silver bullet:👂heard
-  - Not invented here:🎓know
-  - Dead code:👂heard
-  - Unreachable code:👂heard
-  - Duplicate code:🎓know
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters:👂heard
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
-  - Data clump
-  - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Magic numbers: 👂 heard
+  - Hard code:🎓know 👉 Warning: not matching level and emoji
+  - Soft code:🎓know 👉 Warning: not matching level and emoji
+  - Cryptic code:🎓know 👉 Warning: not matching level and emoji
+  - Improbability factor: 👂 heard
+  - Accidental complexity: 👂 heard
+  - Action at a distance: 👂 heard
+  - Spaghetti: 👂 heard
+  - Silver bullet: 👂 heard
+  - Not invented here:🎓know 👉 Warning: not matching level and emoji
+  - Dead code: 👂 heard
+  - Unreachable code: 👂 heard
+  - Duplicate code:🎓know 👉 Warning: not matching level and emoji
+  - Premature optimization: 👂 heard
+  - Micro-optimization: 👂 heard
+  - Nested loops: 👂 heard
+  - Long method/function/procedure:🎓know 👉 Warning: not matching level and emoji
+  - Long inheritance: 👂 heard
+  - Large class/file:🎓know 👉 Warning: not matching level and emoji
+  - Too many parameters:🎓know 👉 Warning: not matching level and emoji
+  - Pass-through parameters: 👂 heard
+  - Accumulate and fire:🎓know 👉 Warning: not matching level and emoji
+  - Use switch/case:🎓know 👉 Warning: not matching level and emoji
+  - Temporary field:🎓know 👉 Warning: not matching level and emoji
+  - Handle object as instances and hashes at the same time: 👂 heard
+  - Use fields instead of arguments: 👂 heard
+  - Data clump: 👂 heard
+  - Feature envy: 👂 heard
+  - Monkey patch: 👂 heard
+  - Yo-yo problem: 👂 heard
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
-  - CLR
-  - Mono
+  - Bytecode: 👂 heard
+  - V8: 👂 heard
+  - VJM: 👂 heard
+  - CLR: 👂 heard
+  - Mono: 👂 heard
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - Interrupts: 👂 heard
+  - Drivers:🎓know 👉 Warning: not matching level and emoji
+  - Kernel: 👂 heard
+  - Ring:🎓know 👉 Warning: not matching level and emoji
+  - Virtual memory:🎓know 👉 Warning: not matching level and emoji
+  - File system:🎓know 👉 Warning: not matching level and emoji
+  - Linux:🎓know 👉 Warning: not matching level and emoji
+  - Unix: 👂 heard
+  - BSD: 👂 heard
+  - MacOS:🎓know 👉 Warning: not matching level and emoji
+  - Windows: 🖐️ used
+  - Real-time OS:🎓know 👉 Warning: not matching level and emoji
+  - Embedded OS: 👂 heard
 - Standards
-  - ASCII
-  - Escape sequence
-  - RFC
-  - IETF
-  - IANA
-  - IEEE
-  - Base64
-  - ECMA
-  - ICANN
-  - ISO
-  - MIME
-  - OWASP
-  - UTF-8
-  - W3C
-  - ODMG
+  - ASCII: 👂 heard
+  - Escape sequence: 👂 heard
+  - RFC: 👂 heard
+  - IETF: 👂 heard
+  - IANA: 👂 heard
+  - IEEE: 👂 heard
+  - Base64: 👂 heard
+  - ECMA: 👂 heard
+  - ICANN: 👂 heard
+  - ISO:🎓know 👉 Warning: not matching level and emoji
+  - MIME: 👂 heard
+  - OWASP: 👂 heard
+  - UTF-8: 👂 heard
+  - W3C: 👂 heard
+  - ODMG: 👂 heard
